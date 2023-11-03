@@ -1,3 +1,0 @@
-Given
-When
-Then
